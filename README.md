@@ -31,7 +31,11 @@ VIX用配列の初期化
 FP_WEBAPI_REQUEST で取得したデータ「ec_datas」のなかで、条件に合う経済指標があるかを返却
 
 
+----
 # 参考 Experts
 
-FundamentalPrime_SampleExperts_RSI.mq4
+### FundamentalPrime_Base.mq4
+OnTick に APIアクセスと、指定時間前後に経済指標イベントがあるかをチェックする関数をいれた、スケルトン。
+
+### FundamentalPrime_SampleExperts_RSI.mq4
 当 mqh を利用した参考Expertsを用意しました。RSIでトレードするシンプルなEAに Fundamental Prime Web API を使ったトレード可否判定を入れています。
