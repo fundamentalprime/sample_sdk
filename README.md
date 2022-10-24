@@ -1,5 +1,5 @@
 # [Service Ended] Fundamental Prime Web API Sample SDK Library (.mqh)
-# 参考・美貌のために当面ソースをおいておきます
+# 参考・備忘のために当面ソースをおいておきます
 
 ## for MT4 , MT5
 
